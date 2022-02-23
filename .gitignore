@@ -1,0 +1,6 @@
+# Editors
+.vscode/
+.idea/
+TZ.docx
+# Windows
+Thumbs.db
